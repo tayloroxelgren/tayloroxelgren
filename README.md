@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tayloroxelgren
+- 👀 Coding, Being a nerd and lifting weights
+- 🌱 x86 assembly programming
+- t.oxelgren@gmail.com
