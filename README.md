@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tayloroxelgren
 - 👀 Coding, Being a nerd and lifting weights
-- 🌱 JavaScript and the React framework
+- 🌱 Trying to learn everything
 - t.oxelgren@gmail.com
